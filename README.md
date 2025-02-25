@@ -1,1 +1,1 @@
-Source code for https://nanx.app
+Source code for <https://nanx.app>
